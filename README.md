@@ -1,4 +1,4 @@
-# GUIDELINE
+# 📄📄📄📄📄 GUIDELINE 📄📄📄📄📄
 PLEASE READ BEFORE USING/UPLOADING ANY CODE IN THIS ORGANIZATION  
 
 ## USERS
@@ -14,13 +14,15 @@ PLEASE READ BEFORE USING/UPLOADING ANY CODE IN THIS ORGANIZATION
 ## CONTRIBUTERS
 
 ### What you can do
-- Upload any source code that belongs to you
+- Upload any source code of a homework that belongs to you and of a course you have already finished.
 
 ### What you should do
-- Cite any author of the code you are uploading and (next point)
-- Ask permission to upload the code to other authors of the project
+- Cite any author of the code you are uploading and (next point).
+- Ask permission to upload the code to other authors of the project.
 
 It is your responsability what you do with your code. However, you might get expel if you infringe any of those norms.
 
 ## FOR EVERYTHING ELSE
 THE SYSTEMS STUDENTS has no liability to what their users upload.
+
+## HAPPY CODING :smile:
